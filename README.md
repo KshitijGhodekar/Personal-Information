@@ -5,6 +5,7 @@
 💻 Passionate about clean code, modern tech, and solving real-world problems.
 
 ---
+
 ## 🚀 Tech Stack
 
 **Frontend:**  
@@ -15,6 +16,7 @@
 
 **Database & Tools:**  
 `PostgreSQL` `MongoDB` `Docker` `Kubernetes` `Git` `Linux`
+
 ---
 
 ## 📬 Contact
