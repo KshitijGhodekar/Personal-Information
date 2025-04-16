@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kshitij Ghodekar
 
 🎓 Master's student in Software Engineering at the University of Limerick, Ireland.  
-💼 3+ years of experience as a Full Stack Developer building scalable, user-centric applications.  
+💼 3 years of experience as a Full Stack Developer building scalable, user-centric applications.  
 💻 Passionate about clean code, modern tech, and solving real-world problems.
 
 ## 🚀 Tech Stack
