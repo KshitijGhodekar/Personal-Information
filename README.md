@@ -4,8 +4,6 @@
 💼 3+ years of experience as a Full Stack Developer building scalable, user-centric applications.  
 💻 Passionate about clean code, modern tech, and solving real-world problems.
 
----
-
 ## 🚀 Tech Stack
 
 **Frontend:**  
@@ -17,12 +15,10 @@
 **Database & Tools:**  
 `PostgreSQL` `MongoDB` `Docker` `Kubernetes` `Git` `Linux`
 
----
-
 ## 📬 Contact
 
-📧 [kshitijghodekar07@gmail.com](mailto:kshitijghodekar07@gmail.com)  
-🌐 [kshitijghodekar.com](https://kshitijghodekar.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/kshitij-ghodekar)
+📧 Email :  [kshitijghodekar07@gmail.com](mailto:kshitijghodekar07@gmail.com)  
+🌐 Portfolio : [kshitijghodekar.com](https://kshitijghodekar.com)  
+💼 LinkedIn : [LinkedIn](https://www.linkedin.com/in/kshitij-ghodekar)
 
 > *Open to full-time roles, freelance work, and collaborations.*
