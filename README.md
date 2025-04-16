@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 **Frontend:**  
-`React` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS`  
+`React.js` `Next.js` `JavaScript` `TypeScript` `Tailwind CSS`  
 
 **Backend:**  
 `Java` `Spring Boot` `Node.js` `REST APIs`  
